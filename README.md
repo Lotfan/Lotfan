@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Sunshine  💛 <br>My Name Sana !  💛<br><br>- I am 23 years old :)<br>- I love to paint and code 🎨 <br>- Minecraft is the only game i like <br>- I will be a Millionaire one day bye
+<img hello.gif/>  💛 <br>My Name Sana !  💛<br><br>- I am 23 years old :)<br>- I love to paint and code 🎨 <br>- Minecraft is the only game i like <br>- I will be a Millionaire one day bye
 
 
 ## 🌐 Socials:
