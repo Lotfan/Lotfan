@@ -1,6 +1,6 @@
 💛 Hello Sunshine !💛
 <br><br>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h6aWxrYXNiaHVuNmtlNjNrYnZscjZ3c2x2emY5dmxmbXdvYTRqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q0s0NVKnLk5WGvsLh3/giphy.gif" width="700" /><br><br>
+<img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h6aWxrYXNiaHVuNmtlNjNrYnZscjZ3c2x2emY5dmxmbXdvYTRqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q0s0NVKnLk5WGvsLh3/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hubDJmc3MzdXVuc2owNzRyZHE4amVkeWNkeXFwcDg3eDFhdnB5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UtMygJsIRb8dXfUpPK/giphy.gif)" width="700" /><br><br>
   💛 <br>My Name Sana ! 💛<br><br>- I am 23 years old :)<br>- I love to paint and code 🎨 <br>- Minecraft is the only game i like <br>- I will be a Millionaire one day bye
 
 
@@ -19,6 +19,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lotfan&icon=0&color=10)](https://visitcount.itsvg.in)
+
+<img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h6aWxrYXNiaHVuNmtlNjNrYnZscjZ3c2x2emY5dmxmbXdvYTRqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q0s0NVKnLk5WGvsLh3/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hubDJmc3MzdXVuc2owNzRyZHE4amVkeWNkeXFwcDg3eDFhdnB5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UtMygJsIRb8dXfUpPK/giphy.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl5d21kOXk1YmQ0eGJmd2x3d2g2NnIxMnloNmtncmR0dTN2d2VxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLfzG8z3pVWlF5VJix/giphy.gif)" width="700" /><br><br>
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Geloschai) 
