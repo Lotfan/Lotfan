@@ -3,7 +3,11 @@
 ![My Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hubDJmc3MzdXVuc2owNzRyZHE4amVkeWNkeXFwcDg3eDFhdnB5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UtMygJsIRb8dXfUpPK/giphy.gif)
 
 <br><br>
-  <br> 💛 My Name Sana ! 💛<br><br>- I am 23 years old :)<br>- I love to paint and code 🎨 <br>- Minecraft is the only game i like <br>- I will be a Millionaire one day bye
+  <br> 💛 I am a Full Stack Developer with Diploma in Digital Technology Development and Design at Mission Ready HQ in New Zealand.
+I build responsive, mobile-first web applications using React, JavaScript, HTML, and CSS, and develop backend APIs with Node.js and SQL databases. I am comfortable working with Git and GitHub, integrating front-end and back-end systems, and following professional development workflows.
+Through hands-on projects, I have gained experience in API development, database design, software testing fundamentals, and modern development tools. I enjoy problem-solving, learning new technologies, and working collaboratively in team environments.  
+I am actively seeking opportunities as a Junior / Graduate / Full Stack Developer where I can continue learning and contribute to real-world products.
+
 
 
 ## 🌐 Socials:
